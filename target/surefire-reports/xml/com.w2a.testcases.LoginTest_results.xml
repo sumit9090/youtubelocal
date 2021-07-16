@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Bank Manager Login Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.115">
+  <properties />
+  
+  
+            <testcase name="loginasBankManahger" time="9.111" classname="com.w2a.testcases.LoginTest" />
+                <testcase name="loginasnewbankmanaer" time="0.004" classname="com.w2a.testcases.LoginTest" />
+      
+</testsuite>

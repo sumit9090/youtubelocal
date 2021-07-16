@@ -1,0 +1,9 @@
+30/06/2021 22:47:05 devpinoyLogger config file loaded!!
+30/06/2021 22:47:05 devpinoyLogger Opening chrome browser
+30/06/2021 22:47:11 devpinoyLogger navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login
+30/06/2021 22:47:12 devpinoyLogger Clicking on an Element : bankmanagerloginbtn_XPATH
+30/06/2021 22:47:21 devpinoyLogger Clicking on an Element : addCustBtn_CSS
+30/06/2021 22:47:26 devpinoyLogger Clicking on an Element : firstname_CSS
+30/06/2021 22:47:27 devpinoyLogger Clicking on an Element : lastname_XPATH
+30/06/2021 22:47:27 devpinoyLogger Clicking on an Element : postcode_CSS
+30/06/2021 22:47:27 devpinoyLogger Clicking on an Element : addbtn_CSS

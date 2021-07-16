@@ -1,0 +1,24 @@
+22:47:05,922 DEBUG devpinoyLogger:67 - config file loaded!!
+22:47:05,927 DEBUG devpinoyLogger:113 - Opening chrome browser
+22:47:11,920 DEBUG devpinoyLogger:118 - navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login
+22:47:12,240 DEBUG devpinoyLogger:142 - Clicking on an Element : bankmanagerloginbtn_XPATH
+22:47:21,273 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+22:47:21,274 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+22:47:21,275 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+22:47:21,276 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+22:47:21,277 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Sumit%20kalra/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+22:47:21,526 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+22:47:21,527 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+22:47:21,527 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+22:47:21,528 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+22:47:21,528 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Sumit%20kalra/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+22:47:21,783 DEBUG devpinoyLogger:142 - Clicking on an Element : addCustBtn_CSS
+22:47:26,941 DEBUG devpinoyLogger:191 - Clicking on an Element : firstname_CSS
+22:47:27,068 DEBUG devpinoyLogger:191 - Clicking on an Element : lastname_XPATH
+22:47:27,178 DEBUG devpinoyLogger:191 - Clicking on an Element : postcode_CSS
+22:47:27,271 DEBUG devpinoyLogger:142 - Clicking on an Element : addbtn_CSS
+22:47:30,300 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+22:47:30,301 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+22:47:30,301 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+22:47:30,301 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+22:47:30,301 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Sumit%20kalra/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
